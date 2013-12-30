@@ -1,0 +1,20 @@
+SymTable Implementation
+
+
+SymTable is a symbol table implemented by two method: linked table and hash table via C language.
+
+There are 6 source files and 1 makefile file.
+
+In the project, the operation "new symbol table", "free symbol table", "get length of symbol table",
+"put something to symbol table", "replace something of symbol table", "check whether the key is in",
+"get something in symbol table", "remove something of symbol table", "map something of symbol table".
+
+In the project, there are unit test for all the function as interface, alse the test is passed.
+
+The command in makefile:
+-make       : make all the source files, and generate two binary files.
+-make all   : same to make.
+-make clean : clean all the files generated.
+-make test  : run test binary files include two files.
+
+The repo address: https://yhu@bitbucket.org/yhu/symtable
