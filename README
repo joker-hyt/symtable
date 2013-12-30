@@ -17,4 +17,4 @@ The command in makefile:
 -make clean : clean all the files generated.
 -make test  : run test binary files include two files.
 
-The repo address: https://yhu@bitbucket.org/yhu/symtable
+The repo address: https://github.com/ytHu/symtable.git
